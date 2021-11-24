@@ -17,6 +17,7 @@ choco upgrade visualstudio2019community
 choco upgrade git -y
 choco upgrade postman -y
 choco upgrade github-desktop
+choco upgrade docker-desktop
 
 #VS Code & Extensions
 choco upgrade visualstudiocode -y

@@ -20,6 +20,7 @@ choco install visualstudio2019community
 choco install git -y
 choco install postman -y
 choco install github-desktop
+choco install docker-desktop
 
 #VS Code & Extensions
 choco install visualstudiocode -y
