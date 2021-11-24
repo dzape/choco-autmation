@@ -33,3 +33,6 @@ choco install visualstudio-github
 # Microsoft .NET Core 
 choco install dotnetcore -y
 choco install azure-data-studio -y
+
+# VM's
+choco install vmware-workstation-player -y
