@@ -32,5 +32,12 @@ choco upgrade visualstudio-github
 choco upgrade dotnetcore -y
 choco upgrade azure-data-studio -y
 
+# Node.js
+choco install nodejs
+
 # VM's
 choco upgrade vmware-workstation-player -y
+
+# Docker
+choco upgrade docker-desktop
+choco upgrade docker-compose

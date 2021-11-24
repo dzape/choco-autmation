@@ -38,3 +38,7 @@ choco install azure-data-studio -y
 # VM's
 choco install vmware-workstation-player -y
 choco install wsl-ubuntu-2004
+
+# Docker
+choco install docker-desktop
+choco install docker-compose
