@@ -36,3 +36,4 @@ choco install azure-data-studio -y
 
 # VM's
 choco install vmware-workstation-player -y
+choco install wsl-ubuntu-2004
